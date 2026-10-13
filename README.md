@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Imran
+Computer Science student at UiTM interested in AI
 
-<!--
-**mohdmran/mohdmran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Studying: Computer Science, UiTM
+- My FYP area: Computer Science Education
 
-Here are some ideas to get you started:
+## Skills and tools
+SQL,HTML,CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+-IBADAH Tracker
+
+## Contact
+- LinkedIn: -
+- Email: -
